@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Más goles en Champions",
+    "questions": [
+      {
+        "options": [
+          {
+            "name": "MESSI",
+            "isCorrect": true
+          },
+          {
+            "name": "NEYMAR",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "options": [
+          {
+            "name": "MARADONA",
+            "isCorrect": false
+          },
+          {
+            "name": "MESSI",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "options": [
+          {
+            "name": "PELE",
+            "isCorrect": false
+          },
+          {
+            "name": "CR7",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Más mundiales jugados",
+    "questions": [
+      {
+        "options": [
+          {
+            "name": "MESSI",
+            "isCorrect": true
+          },
+          {
+            "name": "NEYMAR",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "options": [
+          {
+            "name": "CR7",
+            "isCorrect": true
+          },
+          {
+            "name": "BENZEMA",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "options": [
+          {
+            "name": "BALE",
+            "isCorrect": false
+          },
+          {
+            "name": "PIQUÉ",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  }
+]
